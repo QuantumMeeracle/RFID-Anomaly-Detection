@@ -1,5 +1,5 @@
 # RFID-Based Real-Time Anomaly Detection System
-### Enterprise IoT + ML Solution for Asset Security & Monitoring
+### Enterprise IoT Solution for Asset Security & Monitoring
 
 ---
 
