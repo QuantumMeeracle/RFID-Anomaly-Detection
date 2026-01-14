@@ -3,13 +3,12 @@
 
 ---
 
-## 🎯 Project Overview
+ Project Overview
 
 An intelligent security system that combines **RFID technology** to provide real-time anomaly detection for high-value assets. This production-grade solution demonstrates the seamless integration of IoT sensors with cloud-based AI, deployed entirely on Google Cloud Platform.
 
 ---
-
-## 💡 Business Problem
+Business Problem
 
 Organizations and institutions face significant challenges in monitoring and securing valuable assets:
 
@@ -23,13 +22,13 @@ Traditional surveillance systems are reactive and require constant human monitor
 
 ---
 
-## 🚀 What This System Does
+What This System Does
 
 ### Core Capabilities
 
-✅ **Real-Time Asset Tracking**: Continuously monitors RFID-tagged items across defined zones - shows what's missing or visible  
-✅ **Intelligent Anomaly Detection**: ML models identify suspicious patterns invisible to rule-based systems
-✅ **Historical Analytics**: Generates insights from movement patterns and security events  
-✅ **Scalable Architecture**: Cloud-native design handles 10s to 1000s of assets seamlessly  
+**Real-Time Asset Tracking**: Continuously monitors RFID-tagged items across defined zones - shows what's missing or visible  
+**Intelligent Anomaly Detection**: ML models identify suspicious patterns invisible to rule-based systems
+**Historical Analytics**: Generates insights from movement patterns and security events  
+**Scalable Architecture**: Cloud-native design handles 10s to 1000s of assets seamlessly  
 
 
